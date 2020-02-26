@@ -1,4 +1,4 @@
 # SP7021_KICAD
 KICAD FILES FOR THE SP7021 CHIP
 
-![alt text](http://url/to/img.png)
+![KICAD FILES](https://github.com/ccadic/SP7021_KICAD/blob/master/SP7021.jpg)
